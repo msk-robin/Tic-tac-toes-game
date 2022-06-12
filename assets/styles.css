@@ -1,0 +1,15 @@
+.container {
+    width:200px;
+      display:flex;
+      flex-wrap:wrap;
+      margin: auto;
+    }
+    .box{
+    background-color:lightblue;
+    list-style:none;
+      border:3px solid white;
+      width:50px;
+      height:px;
+      text-align:center;
+      font-size:40px;
+    }
